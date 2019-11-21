@@ -9,6 +9,7 @@
 		"isForceUpdate": true,
 		"isUpdateData": true,
 		"title": "更新提示",
+		"appUrl":"https://www.baidu.com",
 		"content":"版本更新:\n 1,修复Bug。 \n2,这是一段更新信息这是一段更新信息这是一段更新信息。 \n3,这是一段更新信息这是一段更新信息这是一段更新信息"
 	}
 }
