@@ -5,9 +5,10 @@
 	},
 	"result": {
 		"name": "bithumb",
-		"versionName": "1.0.1",
+		"versionName": "1.0.0",
 		"isForceUpdate": true,
 		"isUpdateData": true,
-		"desciption": "更新信息"
+		"title": "更新提示",
+		"content":"版本更新:\n1,修复Bug。2,这是一段更新信息这是一段更新信息这是一段更新信息。\n 3,这是一段更新信息这是一段更新信息这是一段更新信息"
 	}
 }
