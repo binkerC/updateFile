@@ -1,8 +1,13 @@
 {
-	"name": "bithumb",
-	"versionName": "1.0.0",
-	"isForceUpdate": true,
-	"isUpdateData": true,
-	 "title": "更新提示",
-	 "content": "这是一次版本更新的重要提示内容"
+	"error": {
+		"code": 0,
+		"message": ""
+	},
+	"result": {
+		"name": "bithumb",
+		"versionName": "1.0.0",
+		"isForceUpdate": true,
+		"isUpdateData": true,
+		"desciption": "更新信息"
+	}
 }
