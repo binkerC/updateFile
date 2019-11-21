@@ -6,7 +6,7 @@
 	"result": {
 		"name": "bithumb",
 		"versionName": "1.0.0",
-		"isForceUpdate": true,
+		"isForceUpdate": false,
 		"isUpdateData": true,
 		"title": "更新提示",
 		"appUrl":"https://www.baidu.com",
