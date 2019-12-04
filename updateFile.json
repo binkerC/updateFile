@@ -4,6 +4,8 @@
 		"message": ""
 	},
 	"result": {
+		"title_en":"更新提示",
+		"content_en":"app update:\n 1,Fix Bug。 \n2,this is update information。 \n3,this is update information this is update information this is update information",
 		"name": "bithumb",
 		"versionName": "1.0.9",
 		"isForceUpdate": false,
